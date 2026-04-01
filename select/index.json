@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "宝物",
+  "base_artist": "ヒバナ",
+  "createdAt": "2026-04-01T14:52:16.801647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "wacci",
+      "has_synced": false,
+      "path": "select/01_宝物_wacci.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宝物 (NANA ACOUSTIC ONLINE Ver.)",
+      "artist": "Nana Mizuki",
+      "has_synced": false,
+      "path": "select/02_宝物_(NANA_ACOUSTIC_ONLINE_Ver.)_Nana_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キラリ☆宝物",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/03_キラリ☆宝物_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/04_宝物_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キラリ☆宝物",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/05_キラリ☆宝物_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キラリ☆宝物",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/06_キラリ☆宝物_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "岡本真夜",
+      "has_synced": false,
+      "path": "select/07_宝物_岡本真夜.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/08_宝物_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "藤田麻衣子",
+      "has_synced": false,
+      "path": "select/09_宝物_藤田麻衣子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/10_宝物_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "茶太",
+      "has_synced": false,
+      "path": "select/11_宝物_茶太.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "ROUND TABLE featuring Nino",
+      "has_synced": false,
+      "path": "select/12_宝物_ROUND_TABLE_featuring_Nino.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "宝物",
+      "artist": "Nana Mizuki",
+      "has_synced": false,
+      "path": "select/13_宝物_Nana_Mizuki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宝物",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/pl_01_宝物_ヒバナ.txt"
+    }
+  ]
+}
